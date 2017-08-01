@@ -153,7 +153,6 @@ class DUECA_ASASMultiActor_PPScript:
         return make_dict(sim_time, inter_list1)
 
 
-
 if __name__ == "__main__":
     view = DUECA_ASASMultiActor_PPScript(input_folder='./logdata/', formats=['svg', 'png'])
 
